@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <id>com.ssrs.kl.mnPlugin</id>
+    <class>com.ssrs.kl.mnPlugin</class>
+    <name>lk</name>
+    <author>ssrs</author>
+    <provider>ssrs</provider>
+    <version>1.0</version>
+    <description>lk</description>
+
+</plugin>
